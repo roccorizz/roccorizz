@@ -1,9 +1,11 @@
   #                                                                      Hi there 👋
- #                                            Thanks 💙 For Being A Valuable Visitor of My Profile Among </br>
+ ## Thanks 💙 For Being A Valuable Visitor of My Profile Among </br>
 ![](https://visitcount.itsvg.in/api?id=roccorizz&icon=8&color=5)
 # 💫 About Me:
 I am a MERN-stack Web Developer.  Experienced in ReactJs, NextJs, NodeJs, ExpressJs, RestAPI, GraphQL and much more. I am a quick learner. I explore new technologies to keep myself up-to-date with the modern Web technologies.
 
+- 🔭 I’m currently working on an Digital creative agency project.
+- 🌱 I’m currently learning Typescript.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sha-neoyaj-alam-9a9ab7206/) 
