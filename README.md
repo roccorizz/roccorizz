@@ -1,5 +1,6 @@
  ## Hi there 👋
- 
+ Thanks 💙 For Being A Valuable Visitor of My Profile Among
+ [![](https://visitcount.itsvg.in/api?id=roccorizz&icon=8&color=5)](https://visitcount.itsvg.in)
 # 💫 About Me:
 I am a MERN-stack Web Developer.  Experienced in ReactJs, NextJs, NodeJs, ExpressJs, RestAPI, GraphQL and much more. I am a quick learner. I explore new technologies to keep myself up-to-date with the modern Web technologies.
 
@@ -20,11 +21,9 @@ I am a MERN-stack Web Developer.  Experienced in ReactJs, NextJs, NodeJs, Expres
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=roccorizz&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roccorizz&icon=8&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
